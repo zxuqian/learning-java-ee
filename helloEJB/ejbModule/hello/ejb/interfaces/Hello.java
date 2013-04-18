@@ -2,6 +2,11 @@ package hello.ejb.interfaces;
 
 import javax.ejb.Remote;
 
+/**
+ * remote business interface
+ * @author xuqian
+ *
+ */
 @Remote
 public interface Hello {
 	
