@@ -4,6 +4,11 @@ import javax.ejb.EJB;
 
 import hello.ejb.interfaces.Hello;
 
+/**
+ * Test EJB
+ * @author xuqian
+ *
+ */
 public class HelloTest {
 	
 	@EJB
